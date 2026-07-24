@@ -64,6 +64,7 @@ An e-commerce performance dashboard covering revenue, media cost, ROAS, marketpl
 
 ## Architecture
 
+```text
 Browser
   ↓
 React Frontend
