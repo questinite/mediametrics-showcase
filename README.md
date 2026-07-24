@@ -72,3 +72,5 @@ React Frontend
 Express API
   ↓
 MariaDB
+
+# 4. Add `NOTICE.md` Click: ```text Add file > Create new file
