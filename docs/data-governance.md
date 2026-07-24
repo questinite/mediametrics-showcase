@@ -12,9 +12,8 @@ The project applies several layers of protection:
 
 - Brand names are fictionalized
 - Agency names are fictionalized
-- Campaign names are anonymized
+- Campaign names are fictionalized
 - Identifiers are masked
-- Original source identifiers are not exposed
 - Public values are for demonstration only
 - The live system uses a disclaimer popup
 
